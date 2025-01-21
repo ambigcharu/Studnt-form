@@ -2,8 +2,8 @@ import React, { useState } from "react";
 import "./Studentform.css";
 
 interface FormData {
-  // firstname: string;
-  // middlename: string;
+  firstname: string;
+  middlename: string;
   lastname: string;
   p_Firstname: string;
   p_Middlename: string;
